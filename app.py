@@ -43,7 +43,7 @@ with col3:
 st.markdown(
     f"<div style='text-align:center; font-family:Calibri, sans-serif;'>"
     f"<h2>PLAN PERSONALIZADO DE INTERVENCIÓN</h2>"
-    f"<h2>– Aula de Audición y Lenguaje (Versión {curso_acad})-</h2>"
+    f"<h2>–Aula de Audición y Lenguaje-</h2>"
     f"</div>",
     unsafe_allow_html=True
 )
